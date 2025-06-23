@@ -53,6 +53,9 @@ This dataset was created only for learning and demonstration purposes — **no c
 2. Open the notebook (`Product_Sales_Analysis.ipynb`) in [Google Colab](https://colab.research.google.com/) or Jupyter Notebook.
 3. Run all cells. No external dataset is needed — the sample dataset is created within the notebook.
 
+##📔 [Click here to view the full Jupyter Notebook](./Product_Sales_Analysis.ipynb)
+
+
 ## ✅ Author
 
 **Advaita_S_S**  
